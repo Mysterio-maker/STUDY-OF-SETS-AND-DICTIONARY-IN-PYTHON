@@ -1,8 +1,6 @@
 # STUDY-OF-SETS-AND-DICTIONARY-IN-PYTHON
 
-Perfect 👍
-Below is a **clean, professional README.md** you can directly copy–paste for your **Experiment 5**.
-(No extra drama, lab-record + GitHub ready.)
+
 
 ---
 
