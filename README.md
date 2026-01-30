@@ -6,11 +6,11 @@ Below is a **clean, professional README.md** you can directly copy–paste for y
 
 ---
 
-# 📘 Experiment 5
+#  Experiment 5
 
 ## Study of Sets and Dictionaries in Python
 
-### 👤 Student Information
+### Student Information
 
 * **Name:** Amey Waghmare
 * **PRN:** 25070123009
@@ -19,15 +19,15 @@ Below is a **clean, professional README.md** you can directly copy–paste for y
 
 ---
 
-## 🎯 Aim
+##  Aim
 
 To study **Sets, Frozensets, and Dictionaries in Python** and perform various operations such as creation, modification, searching, and set-theoretic operations.
 
 ---
 
-## 📚 Theory
+##  Theory
 
-### 🔹 Set in Python
+###  Set in Python
 
 A set is a collection of:
 
